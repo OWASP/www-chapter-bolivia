@@ -26,15 +26,15 @@ __NOTOC__
 
 ## ¿Que es Owasp?
 
-**OWASP** ([acrónimo](acrónimo "wikilink") de *Open Web Application
-Security Project*, en [inglés](idioma_inglés "wikilink") ‘Proyecto
-[abierto](Código_abierto "wikilink") de
-[seguridad](Seguridad_informática "wikilink") de [aplicaciones
-web](Aplicación_web "wikilink")’) es un proyecto de [código
-abierto](código_abierto "wikilink") dedicado a determinar y combatir
-las causas que hacen que el [software](software "wikilink") sea
-[inseguro](Seguridad_informática "wikilink"). La Fundación OWASP es un
-organismo sin [ánimo de lucro](ánimo_de_lucro "wikilink") que apoya y
+**OWASP** ([acrónimo](acrónimo ) de *Open Web Application
+Security Project*, en [inglés](idioma_inglés ) ‘Proyecto
+[abierto](Código_abierto ) de
+[seguridad](Seguridad_informática ) de [aplicaciones
+web](Aplicación_web )’) es un proyecto de [código
+abierto](código_abierto ) dedicado a determinar y combatir
+las causas que hacen que el [software](software ) sea
+[inseguro](Seguridad_informática ). La Fundación OWASP es un
+organismo sin [ánimo de lucro](ánimo_de_lucro ) que apoya y
 gestiona los proyectos e infraestructura de OWASP. La comunidad OWASP
 está formada por empresas, organizaciones educativas y particulares de
 todo mundo. Juntos constituyen una comunidad de seguridad informática
@@ -51,16 +51,16 @@ OWASP recomienda enfocar la seguridad de aplicaciones informáticas
 considerando todas sus dimensiones: personas, procesos y tecnologías.
 
 Los documentos con más éxito de OWASP incluyen la [Guía
-OWASP](Guía_OWASP "wikilink") y el ampliamente adoptado documento de
-autoevaluación [OWASP Top 10](OWASP_Top_10 "wikilink"). Las herramientas
+OWASP](Guía_OWASP ) y el ampliamente adoptado documento de
+autoevaluación [OWASP Top 10](OWASP_Top_10 ). Las herramientas
 OWASP más usadas incluyen el entorno de formación
-[WebGoat](WebGoat "wikilink"), la herramienta de pruebas de penetración
-[WebScarab](WebScarab "wikilink") y las utilidades de seguridad para
-entornos [.NET](.NET "wikilink") [OWASP
-DotNet](OWASP_DotNet "wikilink"). OWASP cuenta con unos 50 capítulos
+[WebGoat](WebGoat ), la herramienta de pruebas de penetración
+[WebScarab](WebScarab ) y las utilidades de seguridad para
+entornos [.NET](.NET ) [OWASP
+DotNet](OWASP_DotNet ). OWASP cuenta con unos 50 capítulos
 locales por todo el mundo y miles de participantes en las [listas de
-correo](lista_de_correo "wikilink") del proyecto. OWASP ha organizado la
-serie de conferencias [AppSec](AppSec "wikilink") para mejorar la
+correo](lista_de_correo ) del proyecto. OWASP ha organizado la
+serie de conferencias [AppSec](AppSec ) para mejorar la
 construcción de la comunidad de seguridad de aplicaciones web.
 
 ## ¿Como puedo participar?
@@ -303,17 +303,17 @@ Trainings\!](https://www.eventbrite.com/e/owasp-latam-tour-2016-bolivia-tickets-
 | :-----------: | :-------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------------: |
 | 08:00 - 08:30 |   Registro - Acreditación   |                                                                                                                |                     |
 | 08:30 - 09:00 |       Proyecto OWASP        |                                                                                                                |                     |
-| 09:00 - 09:45 | Pedro Roly Condori Coaquira |     [Identificar a los atacantes en Servidores Web](https://www.owasp.org/images/9/90/OWASP_-_RolyNet.pdf)     | Santa Cruz, Bolivia |
-| 09:45 - 10:30 |     Saul Mamani Mamani      |      [La culpa es del programador (Web Security)](https://www.owasp.org/images/1/14/OWASP_SaulMamani.pdf)      |   La Paz, Bolivia   |
+| 09:00 - 09:45 | Pedro Roly Condori Coaquira |     [Identificar a los atacantes en Servidores Web](/www-pdf-archive/OWASP_-_RolyNet.pdf)     | Santa Cruz, Bolivia |
+| 09:45 - 10:30 |     Saul Mamani Mamani      |      [La culpa es del programador (Web Security)](/www-pdf-archive/OWASP_SaulMamani.pdf)      |   La Paz, Bolivia   |
 | 10:30 - 11:00 |       Pausa para café       |                                                                                                                |                     |
 | 11:00 - 11:45 |        Erwin Oviedo         | [Top 10 Web Application Security Risks for ASP.NET](https://www.owasp.org/images/8/84/OWASP_Top10_Asp.Net.ppt) | Santa Cruz, Bolivia |
 | 11:45 - 12:30 |   Willians Duabyakosky C    |         [Nuevas Técnicas de ataque](https://www.owasp.org/images/8/84/OWASP_Willians_Duabyakosky.pptx)         | Santa Cruz, Bolivia |
 | 12:30 - 14:00 |     Horario de Almuerzo     |                                                                                                                |                     |
-| 14:00 - 14:45 |   Javier Garson Aparicio    |       [CSRF Falsificando peticiones](https://www.owasp.org/images/2/2b/CSRF_falsificando_peticiones.pdf)       | Santa Cruz, Bolivia |
-| 14:45 - 15:30 |  Brule Herman Jaques Roger  |        [DDOS y defensa de datacenter](https://www.owasp.org/images/8/84/OWASP-datacenter-security.pdf)         |       Francia       |
+| 14:00 - 14:45 |   Javier Garson Aparicio    |       [CSRF Falsificando peticiones](/www-pdf-archive/CSRF_falsificando_peticiones.pdf)       | Santa Cruz, Bolivia |
+| 14:45 - 15:30 |  Brule Herman Jaques Roger  |        [DDOS y defensa de datacenter](/www-pdf-archive/OWASP-datacenter-security.pdf)         |       Francia       |
 | 15:30 - 16:00 |       Pausa para café       |                                                                                                                |                     |
 | 16:00 - 16:45 | Juan Alberto Fajardo Canaza |                                      Robo de identidad física y digital.                                       |   Potosi, Bolivia   |
-| 16:45 - 17:30 |         Jose Cortez         |    [Criptografía cuántica y detección de intrusos](https://www.owasp.org/images/c/c8/OWASP-Jose_Cortez.pdf)    |   La Paz, Bolivia   |
+| 16:45 - 17:30 |         Jose Cortez         |    [Criptografía cuántica y detección de intrusos](/www-pdf-archive/OWASP-Jose_Cortez.pdf)    |   La Paz, Bolivia   |
 |               |                             |                                                                                                                |                     |
 
 **9 de abril**
@@ -322,16 +322,16 @@ Trainings\!](https://www.eventbrite.com/e/owasp-latam-tour-2016-bolivia-tickets-
 | :-----------: | :----------------------------: | :----------------------------------------------------------------------------------------------------------: | :-----------------: |
 | 08:00 - 08:30 |    Registro - Acreditación     |                                                                                                              |                     |
 | 08:30 - 09:00 |         Proyecto OWASP         |                                                                                                              |                     |
-| 09:00 - 09:45 |          Israel Araoz          |              [101 Sombra del Malware](https://www.owasp.org/images/c/c8/OWASP-Jose_Cortez.pdf)               | Santa Cruz, Bolivia |
-| 09:45 - 10:30 |  Jorge Fernando Zabala Rueda   | [WebVerify2: Monitor de integridad para sitios webs](https://www.owasp.org/images/a/a7/OWASP_webverify2.pdf) | Santa Cruz, Bolivia |
+| 09:00 - 09:45 |          Israel Araoz          |              [101 Sombra del Malware](/www-pdf-archive/OWASP-Jose_Cortez.pdf)               | Santa Cruz, Bolivia |
+| 09:45 - 10:30 |  Jorge Fernando Zabala Rueda   | [WebVerify2: Monitor de integridad para sitios webs](/www-pdf-archive/OWASP_webverify2.pdf) | Santa Cruz, Bolivia |
 | 10:30 - 11:00 |        Pausa para café         |                                                                                                              |                     |
-| 11:00 - 11:45 |     Walter Camama Menacho      |      [Msfvenom PoC](https://www.owasp.org/images/a/ac/OWASP_WCM_2016_-_MSFVENOM_Prueba_de_concepto.pdf)      |    Beni, Bolivia    |
-| 11:45 - 12:30 |   Jaime Iván Mendoza Ribera    |           [Conociendo SNORT](https://www.owasp.org/images/d/df/OWASP_PRESENTACION_SNORT_JIMR.pdf)            | Santa Cruz, Bolivia |
+| 11:00 - 11:45 |     Walter Camama Menacho      |      [Msfvenom PoC](/www-pdf-archive/OWASP_WCM_2016_-_MSFVENOM_Prueba_de_concepto.pdf)      |    Beni, Bolivia    |
+| 11:45 - 12:30 |   Jaime Iván Mendoza Ribera    |           [Conociendo SNORT](/www-pdf-archive/OWASP_PRESENTACION_SNORT_JIMR.pdf)            | Santa Cruz, Bolivia |
 | 12:30 - 14:00 |      Horario de Almuerzo       |                                                                                                              |                     |
-| 14:00 - 14:45 |     Carlos A. Vidaurre C.      |                    [Pwn3d ¿Ahora qué?](https://www.owasp.org/images/8/85/OWASP_CAVC.pdf)                     | Santa Cruz, Bolivia |
+| 14:00 - 14:45 |     Carlos A. Vidaurre C.      |                    [Pwn3d ¿Ahora qué?](/www-pdf-archive/OWASP_CAVC.pdf)                     | Santa Cruz, Bolivia |
 | 14:45 - 15:30 | Leonardo Camilo Quenta Alarcon |         [Profile crawler – Bots inteligentes](https://www.owasp.org/images/0/05/OWASP2016_lqa.pptx)          |   La Paz, Bolivia   |
 | 15:30 - 16:00 |        Pausa para café         |                                                                                                              |                     |
-| 16:00 - 16:45 |      Richard Villca Apaza      |       [The Browser Explotations CHROME II](https://www.owasp.org/images/2/2d/Brower_explotations_.pdf)       |   Oruro, Bolivia    |
+| 16:00 - 16:45 |      Richard Villca Apaza      |       [The Browser Explotations CHROME II](/www-pdf-archive/Brower_explotations_.pdf)       |   Oruro, Bolivia    |
 | 16:45 - 17:30 |        Paulino Calderon        |                                    ¿Cómo programar aplicaciones seguras?                                     |   Cancún, Mexico    |
 |               |                                |                                                                                                              |                     |
 
@@ -361,7 +361,7 @@ Fecha: viernes 8 y sábado 9 de abril
 <td><p><strong>Nmap para administradores de sistema y pentesters</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://www.owasp.org/images/5/5c/Paulino-training1.pdf"><strong>Detalle del training...</strong></a></p></td>
+<td><p><a href="/www-pdf-archive/Paulino-training1.pdf"><strong>Detalle del training...</strong></a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -380,28 +380,28 @@ Paulino Calderón Pale (@calderpwn) es un apasionado consultor de seguridad info
 | :-----------: | :----------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------: |
 | 08:00 - 08:30 |       Registro - Acreditación        |                                                                                                                                                                                                                  |                        |
 | 08:30 - 09:00 | Video: Mundo Hacker - Proyecto OWASP |                                                                                                                                                                                                                  |                        |
-| 09:00 - 09:50 |      Jaime Iván Mendoza Ribera       |                                                    [Análisis de vulnerabilidades web](https://www.owasp.org/images/8/86/Analisis_de_vulnerabilidades_web.pdf)                                                    |  Santa Cruz, Bolivia   |
-| 09:50 - 10:40 |      Cesar Roberto Cuenca Díaz       |                               \[<https://www.owasp.org/images/9/93/Desarrollo_Seguro_Principios_y_Buenas_Pr%C3%A1cticas>..pdf Desarrollo Seguro Principios y Buenas Prácticas\] .                                |    La Paz, Bolivia     |
+| 09:00 - 09:50 |      Jaime Iván Mendoza Ribera       |                                                    [Análisis de vulnerabilidades web](/www-pdf-archive/Analisis_de_vulnerabilidades_web.pdf)                                                    |  Santa Cruz, Bolivia   |
+| 09:50 - 10:40 |      Cesar Roberto Cuenca Díaz       |                               \[</www-pdf-archive/Desarrollo_Seguro_Principios_y_Buenas_Pr%C3%A1cticas>..pdf Desarrollo Seguro Principios y Buenas Prácticas\] .                                |    La Paz, Bolivia     |
 | 11:30 - 12:00 |           Pausa para café            |                                                                                                                                                                                                                  |                        |
-| 12:00 - 12:50 |        Walter Camama Menacho         |                                       [MiTM a nivel de browser con beef y metasploit](https://www.owasp.org/images/3/3a/MiTM_a_nivel_de_browser_con_beef_y_metasploit.pdf)                                       |   Trinidad, Bolivia    |
-| 12:50 - 13:40 |    Leonardo Camilo Quenta Alarcon    |           [Seguridad en sistemas financieros. Buenas prácticas de programación y aplicación de pruebas de penetración OWASP](https://www.owasp.org/images/5/5d/Seguridad_en_sistemas_financieros.pdf)            |    La Paz , Bolivia    |
-| 13:40 - 14:30 |        Deyvi Bustamante Perez        |                                                                 [Exploit development](https://www.owasp.org/images/b/b1/Exploit_development.pdf)                                                                 | Sucre , Bolivia |- aps |
-| 15:00 - 15:50 |         Gonzalo Nina Mamani          | [Sistema para la recolección de información orientado a la mejora en la evaluación de seguridad en aplicaciones Web](https://www.owasp.org/images/7/71/Sistema_para_la_recolecci%C3%B3n_de_informaci%C3%B3n.pdf) |  Cochabamba , Bolivia  |
+| 12:00 - 12:50 |        Walter Camama Menacho         |                                       [MiTM a nivel de browser con beef y metasploit](/www-pdf-archive/MiTM_a_nivel_de_browser_con_beef_y_metasploit.pdf)                                       |   Trinidad, Bolivia    |
+| 12:50 - 13:40 |    Leonardo Camilo Quenta Alarcon    |           [Seguridad en sistemas financieros. Buenas prácticas de programación y aplicación de pruebas de penetración OWASP](/www-pdf-archive/Seguridad_en_sistemas_financieros.pdf)            |    La Paz , Bolivia    |
+| 13:40 - 14:30 |        Deyvi Bustamante Perez        |                                                                 [Exploit development](/www-pdf-archive/Exploit_development.pdf)                                                                 | Sucre , Bolivia |- aps |
+| 15:00 - 15:50 |         Gonzalo Nina Mamani          | [Sistema para la recolección de información orientado a la mejora en la evaluación de seguridad en aplicaciones Web](/www-pdf-archive/Sistema_para_la_recolecci%C3%B3n_de_informaci%C3%B3n.pdf) |  Cochabamba , Bolivia  |
 |               |                                      |                                                                                                                                                                                                                  |                        |
 
 |     Hora      |             Expositor              |                                                                             Conferencia                                                                             |        País         |
 | :-----------: | :--------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------: |
 | 08:00 - 08:30 |            Acreditación            |                                                                                                                                                                     |                     |
-| 09:00 - 09:50 |   Alex Villegas y Roller Ibanez    | [Gestión de continuidad del negocio un enfoque resilente basado en el estándar ISO 22301](https://www.owasp.org/images/8/81/Business_Continuity_Planning_OWASP.pdf) | Cochabamba, Bolivia |
-| 09:50 - 10:40 |        Richard Villca Apaza        |                       [Rompiendo el modelo de negocios: Debugging Android Apps](https://www.owasp.org/images/1/13/Debugging_Android_Apps.pdf)                       |   La Paz, Bolivia   |
-| 10:40 - 11:30 |       Cristhian Lima Saravia       |                                                   [Framework Pleni](https://www.owasp.org/images/3/32/Pleni.pdf)                                                    | Cochabamba, Bolivia |
+| 09:00 - 09:50 |   Alex Villegas y Roller Ibanez    | [Gestión de continuidad del negocio un enfoque resilente basado en el estándar ISO 22301](/www-pdf-archive/Business_Continuity_Planning_OWASP.pdf) | Cochabamba, Bolivia |
+| 09:50 - 10:40 |        Richard Villca Apaza        |                       [Rompiendo el modelo de negocios: Debugging Android Apps](/www-pdf-archive/Debugging_Android_Apps.pdf)                       |   La Paz, Bolivia   |
+| 10:40 - 11:30 |       Cristhian Lima Saravia       |                                                   [Framework Pleni](/www-pdf-archive/Pleni.pdf)                                                    | Cochabamba, Bolivia |
 | 11:30 - 12:00 |          Pausa para café           |                                                                                                                                                                     |                     |
-| 12:00 - 12:50 |    Elvin Vidal Mollinedo Mencia    |                          [Los 7 pecados de un desarrollador Web](https://www.owasp.org/index.php/File:LOS_7_PECADOS_DEL_DESARROLO_WEB.pdf)                          | Santa Cruz, Bolivia |
-| 12:50 - 13:40 |        Alvaro Machaca Tola         |             [Análisis de riesgos aplicando la metodología OWASP](https://www.owasp.org/images/b/b3/Analisis_de_riesgo_usando_la_metodologia_OWASP.pdf)              |  La Paz , Bolivia   |
-| 13:40 - 14:30 |       Erick Calderon Mostajo       |                            [Herramientas de Aprendizaje OWASP](https://www.owasp.org/images/7/77/Herramientas_de_Aprendizaje_OWASP.pdf)                             |  La Paz , Bolivia   |
+| 12:00 - 12:50 |    Elvin Vidal Mollinedo Mencia    |                          [Los 7 pecados de un desarrollador Web](/www-pdf-archive/File:LOS_7_PECADOS_DEL_DESARROLO_WEB.pdf)                          | Santa Cruz, Bolivia |
+| 12:50 - 13:40 |        Alvaro Machaca Tola         |             [Análisis de riesgos aplicando la metodología OWASP](/www-pdf-archive/Analisis_de_riesgo_usando_la_metodologia_OWASP.pdf)              |  La Paz , Bolivia   |
+| 13:40 - 14:30 |       Erick Calderon Mostajo       |                            [Herramientas de Aprendizaje OWASP](/www-pdf-archive/Herramientas_de_Aprendizaje_OWASP.pdf)                             |  La Paz , Bolivia   |
 | 14:30 - 15:00 |          Pausa para café           |                                                                                                                                                                     |                     |
-| 15:00 - 15:50 |        Daniel Torres Sandi         |                                          [Headers seguros en HTTP](https://www.owasp.org/images/6/6a/Headers_seguros.pdf)                                           |   Sucre , Bolivia   |
-| 15:50 - 16:50 | Gabriel Labrada Hernandez (MEXICO) |                     [Seguridad en Hardware y los servicios en la nube](https://www.owasp.org/images/9/96/HWsecurityAndCloudComputing_Final.pdf)                     |       Mexico        |
+| 15:00 - 15:50 |        Daniel Torres Sandi         |                                          [Headers seguros en HTTP](/www-pdf-archive/Headers_seguros.pdf)                                           |   Sucre , Bolivia   |
+| 15:50 - 16:50 | Gabriel Labrada Hernandez (MEXICO) |                     [Seguridad en Hardware y los servicios en la nube](/www-pdf-archive/HWsecurityAndCloudComputing_Final.pdf)                     |       Mexico        |
 | 16:50 - 17:50 |          Jacobo Tibaquira          |                                                                  Atacando al atacante (DRAGON JAR)                                                                  |      Colombia       |
 
 # OWASP DAY
@@ -507,9 +507,9 @@ Fecha: 2 de Abril del 2016 / 08:30 am
 | :-----------: | :-----------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 | 09:00 - 09:45 |                   Henry Vargas Grillo                   |                   [Virus y Ciber-espionaje](https://www.owasp.org/images/d/d8/Virus_y_ciber-espionaje.pptx)                   |
 | 09:45 - 10:15 |                     Daniel Gonzales                     |                                                    Infraestructura segura                                                     |
-| 10:15 - 11:00 |               Ariel Roymer Gabriel Ticona               | [Ofuscación de código, seguridad de Aplicaciones Windows](https://www.owasp.org/images/6/66/OWASP_-_Ofuscacion_de_Codigo.pdf) |
+| 10:15 - 11:00 |               Ariel Roymer Gabriel Ticona               | [Ofuscación de código, seguridad de Aplicaciones Windows](/www-pdf-archive/OWASP_-_Ofuscacion_de_Codigo.pdf) |
 | 11:00 - 11:45 | Humberto Enrique Pardo Iriarte y Paolo Mozcoso Lizarazu |     [Atacando S.O android usando MSFvenom](https://www.owasp.org/images/5/5f/OWASP-Atacando-So-Android-con-msfvenom.ppt)      |
-| 11:45 - 12:30 |                   Daniel Torres Sandi                   |       [Errores de seguridad informática que todo sysadmin debe evitar](https://www.owasp.org/images/0/06/OWASP_DTS.pdf)       |
+| 11:45 - 12:30 |                   Daniel Torres Sandi                   |       [Errores de seguridad informática que todo sysadmin debe evitar](/www-pdf-archive/OWASP_DTS.pdf)       |
 |               |                                                         |                                                                                                                               |
 
 <center>
@@ -525,11 +525,11 @@ Fecha: 2 de Abril del 2016 / 08:30 am
 
 |     Hora      |                               Expositor                                |                                                    Conferencia                                                    |
 | :-----------: | :--------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
-| 17:30 - 18:00 | [Proyecto OWASP](https://www.owasp.org/images/4/46/Proyecto_OWASP.pdf) |                                                                                                                   |
-| 18:00 - 19:00 |                          Jorge Martinez Valda                          |                         [Ataques WIFI](https://www.owasp.org/images/7/79/OWASP_JLMV.pdf)                          |
-| 19:00 - 19:45 |                          Marco Antonio Arenas                          |         [Internet de la Cosas: Ciber Seguridad](https://www.owasp.org/images/3/36/IoT_CyberSecurity.pdf)          |
-| 19:45 - 20:30 |                        Mauricio Canseco Torres                         |        [Hacking y seguridad en redes de telefonía móvil](https://www.owasp.org/images/0/0b/OWASP_MCT.pdf)         |
-| 20:30 - 21:15 |                          Daniel Torres Sandi                           | [Errores de seguridad informática que todo sysadmin debe evitar](https://www.owasp.org/images/0/06/OWASP_DTS.pdf) |
+| 17:30 - 18:00 | [Proyecto OWASP](/www-pdf-archive/Proyecto_OWASP.pdf) |                                                                                                                   |
+| 18:00 - 19:00 |                          Jorge Martinez Valda                          |                         [Ataques WIFI](/www-pdf-archive/OWASP_JLMV.pdf)                          |
+| 19:00 - 19:45 |                          Marco Antonio Arenas                          |         [Internet de la Cosas: Ciber Seguridad](/www-pdf-archive/IoT_CyberSecurity.pdf)          |
+| 19:45 - 20:30 |                        Mauricio Canseco Torres                         |        [Hacking y seguridad en redes de telefonía móvil](/www-pdf-archive/OWASP_MCT.pdf)         |
+| 20:30 - 21:15 |                          Daniel Torres Sandi                           | [Errores de seguridad informática que todo sysadmin debe evitar](/www-pdf-archive/OWASP_DTS.pdf) |
 |               |                                                                        |                                                                                                                   |
 
 <center>
@@ -553,10 +553,10 @@ Fecha: 2 de Abril del 2016 / 08:30 am
 
 **Materiales de Educación**
 
-  - [OWASP Top 10](Top_10_2013 "wikilink")
+  - [OWASP Top 10](Top_10_2013 )
   - [OWASP Proactive
-    Controls](Media:OWASP_Proactive_Controls_v1.pdf "wikilink")
-  - [Guía de Desarrollo OWASP](OWASP_Guide_Project "wikilink")
+    Controls](/www-pdf-archive/OWASP_Proactive_Controls_v1.pdf )
+  - [Guía de Desarrollo OWASP](OWASP_Guide_Project )
   - Guía de Testing OWASP
   - Guía OWASP para aplicaciones Web Seguras
 
@@ -577,7 +577,7 @@ Fecha: 2 de Abril del 2016 / 08:30 am
 Los interesados en participar con un stand en el evento y su logo en la
 página del Tour (entre otras posibilidades), pueden revisar las
 [**Oportunidades de
-patrocinio**](https://www.owasp.org/images/8/8c/LatamTour2016OportunidadesdePatrocinio.pdf)
+patrocinio**](/www-pdf-archive/LatamTour2016OportunidadesdePatrocinio.pdf)
 Cualquier consulta a: [Elvin
 Mollinedo](mailto:elvin.mollinedo@owasp.org).
 \=MEMBRESÍA=
@@ -586,12 +586,12 @@ Mollinedo](mailto:elvin.mollinedo@owasp.org).
 chapter or become a local chapter supporter.
 
 Or consider the value of [Individual, Corporate, or Academic Supporter
-membership](Membership "wikilink"). Ready to become a member?
+membership](Membership ). Ready to become a member?
 ![Join_Now_BlueIcon.JPG](Join_Now_BlueIcon.JPG
 "Join_Now_BlueIcon.JPG")
 
 <headertabs></headertabs>
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:OWASP_Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Latin America](Category:Latin_America "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:OWASP_Chapter](Category:OWASP_Chapter )
+[Category:Latin America](Category:Latin_America )
