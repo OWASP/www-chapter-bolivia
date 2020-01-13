@@ -6,7 +6,7 @@ order: 1
 tags: latam-tag
 ---
 
-## LATAM TOUR EVENTOS
+## LATAM
 
 ![OWASPLATAM2020](/www-chapter-bolivia/assets/images/back3.png "OWASP LATAM 2020")
 
