@@ -1,6 +1,7 @@
 ---
 
-layout: col-sidebar
+layout: null
+tab: true
 title: Latam
 tags: latam-tag
 level: 0
