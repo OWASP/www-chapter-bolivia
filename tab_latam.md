@@ -15,9 +15,6 @@ main{
   background: black;
 }
 
-#banner{
-display: none;
 
-}
 
 </style>
