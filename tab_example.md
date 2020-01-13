@@ -17,4 +17,7 @@ main{
   background: black;
 }
 
+#banner{
+display: hide;
+}
 </style>
