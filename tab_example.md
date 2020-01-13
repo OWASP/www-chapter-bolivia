@@ -18,6 +18,11 @@ main{
 }
 
 #banner{
-display: hide;
+display: none;
+
+}
+.alert{
+display: none;
+
 }
 </style>
