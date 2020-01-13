@@ -1,6 +1,6 @@
 ---
 
-title: Owaspdays
+title: Days
 layout:  null
 tab: true
 order: 3
@@ -8,5 +8,5 @@ tags: example-tag
 
 
 ---
-## Owasp Days
+## Days
 hi
