@@ -12,4 +12,4 @@ Put whatever you like here: news, screenshots, features, supporters, or remove t
 
 
 ![OWASPLATAM2020](/www-chapter-bolivia/assets/images/back3.png "OWASP LATAM 2020")
-![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png "test1")
