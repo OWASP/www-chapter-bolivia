@@ -1,6 +1,6 @@
 ---
 
-title: Latam
+title: Latam Tour
 layout:  null
 tab: true
 order: 2
