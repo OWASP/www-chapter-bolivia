@@ -8,8 +8,7 @@ tags: example-tag
 
 ## Example
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all. Elvin Mollinedo
-Test13
-![TEST1](https://octodex.github.com/images/bannekat.png "test1")
+Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all. Ing. Elvin Mollinedo
+ 
 
 ![OWASPLATAM2020](/www-chapter-bolivia/assets/images/back3.png "OWASP LATAM 2020")
