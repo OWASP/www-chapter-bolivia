@@ -9,12 +9,8 @@ tags: latam-tag
 ## LATAM
 
 ![OWASPLATAM2020](/www-chapter-bolivia/assets/images/back3.png "OWASP LATAM 2020")
-
 <style>
 main{
   background: black;
 }
-
-
-
 </style>
