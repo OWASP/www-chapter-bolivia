@@ -13,7 +13,7 @@ Put whatever you like here: news, screenshots, features, supporters, or remove t
 ![OWASPLATAM2020](/www-chapter-bolivia/assets/images/back3.png "OWASP LATAM 2020")
 
 <style>
-.main{
+main{
   background: black;
 }
 
