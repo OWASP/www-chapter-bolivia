@@ -10,7 +10,7 @@ region: Latin America
 auto-migrated: 1
 
 ---
-![OWASPLATAM2020](/www-chapter-bolivia/assets/images/back3.png "OWASP LATAM 2020")
+![OWASPBOLIVIA](/www-chapter-bolivia/assets/images/owasp-www.jpg "OWASP BOLIVIA")
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
