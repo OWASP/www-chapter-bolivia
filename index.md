@@ -12,6 +12,31 @@ auto-migrated: 1
 ---
 ![OWASPBOLIVIA](/www-chapter-bolivia/assets/images/owasp-www.jpg "OWASP BOLIVIA")
 
+## Sobre el capítulo OWASP Bolivia
+El capitulo OWASP Bolivia comenzó en el año 2015 con el fin de difundir temas de Seguridad en Aplicaciones en Bolivia. 
+
+Buscamos difundir temas de Seguridad en Aplicaciones Web, concientizar y sensibilizar tanto a organizaciones, empresas, Universidades, estudiantes, desarrolladores y arquitectos. Esta difusión se realiza mediante eventos de capacitación y de charlas.
+
+## Sin fines de lucro, organización de voluntarios:
+* Todos los miembros son voluntarios
+* Todo el trabajo es donado por los patrocinadores
+* Proporcionar recursos gratuitos para la comunidad
+* Publicaciones, artículos, normas
+* Software de Testeo y Capacitación
+* Capítulos locales & Listas de correo
+
+
+## Universidad o centro educativo
+Las universidades y centros educativos que apoyan a OWASP cuentan con los siguientes beneficios:
+
+* Aumentar la visibilidad de la universidad en todo el mundo
+* OWASP y la Universidad pueden conjuntamente organizar eventos que proporcionen a los estudiantes financiamiento para realizar investigaciones basadas en la seguridad de aplicaciones
+* OWASP y la Universidad pueden colaborar en la organización de seminarios para proporcionar sesiones de capacitación para estudiantes en herramientas OWASP, documentación y conocimientos de seguridad.
+ES SIN COSTO!
+
+* Nota: Esto apunta a que la Universidad en su conjunto se involucre con OWASP. Esto no implica la membresia individual u organizacional de los estudiantes y/o profesores de la Universidad. Sin embargo, se invita a todos los estudiantes y profesores a explorar los beneficios de convertirse en un miembro OWASP.
+
+
 ## ¿Que es Owasp?
 
 **OWASP** ([acrónimo](acrónimo ) de *Open Web Application
