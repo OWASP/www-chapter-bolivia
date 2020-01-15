@@ -36,6 +36,8 @@ ES SIN COSTO!
 
 * Nota: Esto apunta a que la Universidad en su conjunto se involucre con OWASP. Esto no implica la membresia individual u organizacional de los estudiantes y/o profesores de la Universidad. Sin embargo, se invita a todos los estudiantes y profesores a explorar los beneficios de convertirse en un miembro OWASP.
 
+## Empresa
+Realizando donaciones para el capítulo local, para el apoyo de proyectos y eventos
 
 ## ¿Que es Owasp?
 
