@@ -9,4 +9,5 @@ tags: example-tag
 
 ---
 ## LatamTour
-hi
+![OWASPLATAM2020](/www-chapter-bolivia/assets/images/back3.png "OWASP LATAM 2020")
+En construcción
