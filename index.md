@@ -58,8 +58,6 @@ participar, estudiantes, docentes, profesionales todos somos iguales
 dentro de nuestra comunidad, nadie es más ni menos jerárquico en nuestra
 comunidad.
 
-Te recomendamos registrar tu correo en la lista, para que estés
-constantemente informado.
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
