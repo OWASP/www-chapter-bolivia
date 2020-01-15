@@ -13,11 +13,9 @@ tags: example-tag
 En construcción
 
 <div class="panel panel-info">
-<p class="panel-heading"><strong>Output</strong></p>
+<p class="panel-heading"><strong>OWASP LATAM TOUR 2019</strong></p>
 <div class="panel-body">
-<h2 class="no_toc" style="margin-top:0" id="heading-h2">Heading h2</h2>
-<h3 class="no_toc handbook-md-title" id="heading-h3">Heading h3<a href="#heading-h3" class="handbook-md-anchor"></a></h3>
-<h4 class="no_toc handbook-md-title" id="heading-h4">Heading h4<a href="#heading-h4" class="handbook-md-anchor"></a></h4>
+<h2 class="no_toc" style="margin-top:0" id="heading-h2">Contenido en proceso</h2>
 </div>
 </div>
 
