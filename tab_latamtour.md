@@ -9,16 +9,22 @@ tags: example-tag
 
 ---
 ## LatamTour
-#OWASP LATAM TOUR 2020
-#Dirección:     En progreso
+# OWASP LATAM TOUR 2020
+
+# Dirección:     En progreso
+
 #Fecha: Por definir
+
 #Ciudad: Santa Cruz - Bolivia
 ![OWASPLATAM2020](/www-chapter-bolivia/assets/images/back3.png "OWASP LATAM 2020")
 # Eventos OWASP LATAM TOUR REALIZADOS
 
-#OWASP LATAM TOUR 2019
+# OWASP LATAM TOUR 2019
+
 #Dirección:	Universidad NUR Av. Banzer #100
+
 #Fecha:	31 de mayo de 2019
+
 #Ciudad: Santa Cruz - Bolivia
 
 #Viernes 31 de mayo 2019
@@ -43,9 +49,12 @@ tags: example-tag
 
 
 
-#OWASP LATAM TOUR 2018
+# OWASP LATAM TOUR 2018
+
 #Dirección: Calle Ayacucho Mercado frente al Banco Central de Bolivia Edificio de la Vicepresidencia.
+
 #Fecha: 13 y 14 de abril.
+
 #Ciudad: La Paz - Bolivia
 
 #Viernes 13 de abril 2018
@@ -99,9 +108,12 @@ SALA PARALELA
 | 13:40 - 14:30 |       	Seguridad em entornos corporativos NIVEL 4		   			 |   	Fernando A. Lagos B.(Chile)	      |
 
 
-#OWASP LATAM TOUR 2017
+# OWASP LATAM TOUR 2017
+
 #Dirección:	Universidad Domingo Savio Av. Beni y 3er. Anillo Externo.
+
 #Fecha:	21 y 22 de abril de 2017
+
 #Ciudad: Santa Cruz - Bolivia
 
 #Viernes 21 de abril 2017
@@ -141,9 +153,12 @@ Viernes 22 de abril 2017
 | 15:50 - 16:40 |        	 	DevOps - Del Salar de Uyuni a Skynet  	  				 |           Diego Bruno			|
 
 
-#OWASP LATAM TOUR 2016
+# OWASP LATAM TOUR 2016
+
 #Dirección:	Universidad de Aquino UDABOL, 3er. Anillo Interno esq. Radial 23
+
 #Fecha:	8 y 9 de abril de 2016
+
 #Ciudad: Santa Cruz - Bolivia
 
 
@@ -187,9 +202,12 @@ Viernes 22 de abril 2017
 
 
 
-#OWASP LATAM TOUR 2015
+# OWASP LATAM TOUR 2015
+
 #Dirección:	Universidad NUR Av. Banzer #100
+
 #Fecha:	17 y 18 de abril de 2015
+
 #Ciudad: Santa Cruz - Bolivia
 
 #Viernes 17 de abril 2015
