@@ -9,27 +9,19 @@ tags: example-tag
 
 ---
 ## LatamTour
+#OWASP LATAM TOUR 2020
+#Dirección:     En progreso
+#Fecha: Por definir
+#Ciudad: Santa Cruz - Bolivia
 ![OWASPLATAM2020](/www-chapter-bolivia/assets/images/back3.png "OWASP LATAM 2020")
-# Eventos OWASP LATAM TOUR
+# Eventos OWASP LATAM TOUR REALIZADOS
 
+#OWASP LATAM TOUR 2019
+#Dirección:	Universidad NUR Av. Banzer #100
+#Fecha:	31 de mayo de 2019
+#Ciudad: Santa Cruz - Bolivia
 
-
-OWASP LATAM TOUR 2020
-Dirección:	En progreso
-Fecha:	Por definir
-Ciudad: Santa Cruz - Bolivia
-
-
-
-
-
-
-OWASP LATAM TOUR 2019
-Dirección:	Universidad NUR Av. Banzer #100
-Fecha:	31 de mayo de 2019
-Ciudad: Santa Cruz - Bolivia
-
-Viernes 31 de mayo 2019
+#Viernes 31 de mayo 2019
 
 |     Hora      |                              Conferencia                               |             Speaker                 |
 | :-----------: | :--------------------------------------------------------------------: | :---------------------------------: |
@@ -51,12 +43,12 @@ Viernes 31 de mayo 2019
 
 
 
-OWASP LATAM TOUR 2018
-Dirección: Calle Ayacucho Mercado frente al Banco Central de Bolivia Edificio de la Vicepresidencia.
-Fecha: 13 y 14 de abril.
-Ciudad: La Paz - Bolivia
+#OWASP LATAM TOUR 2018
+#Dirección: Calle Ayacucho Mercado frente al Banco Central de Bolivia Edificio de la Vicepresidencia.
+#Fecha: 13 y 14 de abril.
+#Ciudad: La Paz - Bolivia
 
-Viernes 13 de abril 2018
+#Viernes 13 de abril 2018
 
 |     Hora      |                              Conferencia                               |             Speaker              |
 | :-----------: | :--------------------------------------------------------------------: | :------------------------------: |
@@ -75,7 +67,9 @@ Viernes 13 de abril 2018
 | 15:50 - 16:40 |                		Ingenieria Social en la Empresa                  |   Ariel Roymer Gabriel Ticona    | 
 
 Viernes 14 de abril 2018
-SAAS PARALELA
+SALA PARALELA
+
+
 |     Hora      |                              Conferencia                               |             Speaker              |
 | :-----------: | :--------------------------------------------------------------------: | :------------------------------: |
 |  8:00 - 8:30  |                             Acreditación                               |           OWASP BOLIVIA          |
@@ -90,8 +84,8 @@ SAAS PARALELA
 | 14:30 - 15:00 |                             Coffee Break                               |                                  |
 | 15:00 - 15:50 |           	De los CApture de Flag a la vida real	 			  	 | 	Ever Gallegos/Yehude Huayhua	|
 
-Viernes 14 de abril 2018
-SALA PRINCIPAL
+#Viernes 14 de abril 2018
+#SALA PRINCIPAL
 
 |     Hora      |                              Conferencia                               |                 Speaker                |
 | :-----------: | :--------------------------------------------------------------------: | :------------------------------------: |
@@ -105,12 +99,12 @@ SALA PRINCIPAL
 | 13:40 - 14:30 |       	Seguridad em entornos corporativos NIVEL 4		   			 |   	Fernando A. Lagos B.(Chile)	      |
 
 
-OWASP LATAM TOUR 2017
-Dirección:	Universidad Domingo Savio Av. Beni y 3er. Anillo Externo.
-Fecha:	21 y 22 de abril de 2017
-Ciudad: Santa Cruz - Bolivia
+#OWASP LATAM TOUR 2017
+#Dirección:	Universidad Domingo Savio Av. Beni y 3er. Anillo Externo.
+#Fecha:	21 y 22 de abril de 2017
+#Ciudad: Santa Cruz - Bolivia
 
-Viernes 21 de abril 2017
+#Viernes 21 de abril 2017
 
 |     Hora      |                              Conferencia                               |             Speaker              |
 | :-----------: | :--------------------------------------------------------------------: | :------------------------------: |
@@ -147,13 +141,13 @@ Viernes 22 de abril 2017
 | 15:50 - 16:40 |        	 	DevOps - Del Salar de Uyuni a Skynet  	  				 |           Diego Bruno			|
 
 
-OWASP LATAM TOUR 2016
-Dirección:	Universidad de Aquino UDABOL, 3er. Anillo Interno esq. Radial 23
-Fecha:	8 y 9 de abril de 2016
-Ciudad: Santa Cruz - Bolivia
+#OWASP LATAM TOUR 2016
+#Dirección:	Universidad de Aquino UDABOL, 3er. Anillo Interno esq. Radial 23
+#Fecha:	8 y 9 de abril de 2016
+#Ciudad: Santa Cruz - Bolivia
 
 
-Viernes 8 de abril 2016
+#Viernes 8 de abril 2016
 
 |     Hora      |                              Conferencia                               |             Speaker              |
 | :-----------: | :--------------------------------------------------------------------: | :------------------------------: |
@@ -172,7 +166,7 @@ Viernes 8 de abril 2016
 | 15:50 - 16:40 |              Criptografía cuántica y detección de intrusos             | 		  	 Jose Cortez  		    | 
 
 
-Viernes 9 de abril 2016
+#Viernes 9 de abril 2016
 
 |     Hora      |                              Conferencia                               |             Speaker              |
 | :-----------: | :--------------------------------------------------------------------: | :------------------------------: |
@@ -193,12 +187,12 @@ Viernes 9 de abril 2016
 
 
 
-OWASP LATAM TOUR 2015
-Dirección:	Universidad NUR Av. Banzer #100
-Fecha:	17 y 18 de abril de 2015
-Ciudad: Santa Cruz - Bolivia
+#OWASP LATAM TOUR 2015
+#Dirección:	Universidad NUR Av. Banzer #100
+#Fecha:	17 y 18 de abril de 2015
+#Ciudad: Santa Cruz - Bolivia
 
-Viernes 17 de abril 2015
+#Viernes 17 de abril 2015
 
 |     Hora      |                              Conferencia                               |             Speaker              |
 | :-----------: | :--------------------------------------------------------------------: | :------------------------------: |
@@ -217,7 +211,7 @@ Viernes 17 de abril 2015
 | 16:40 - 17:30 | 						WAF Testing Framework							 |    Juan Alberto Fajardo Canaza   |
 
 
-Viernes 18 de abril 2015
+#Viernes 18 de abril 2015
 
 |     Hora      |                              Conferencia                               |             Speaker              |
 | :-----------: | :--------------------------------------------------------------------: | :------------------------------: |
@@ -232,7 +226,7 @@ Viernes 18 de abril 2015
 | 14:30 - 15:00 |                             Coffee Break                               |                                  |
 | 15:00 - 15:50 |       				 Headers seguros en HTTP   					     | 		  Daniel Torres Sandi   	|
 | 15:50 - 16:40 |          Seguridad en Hardware y los servicios en la nube              |Gabriel Labrada Hernandez (MEXICO)|
-| 16:40 - 17:30 | 					Atacando al atacante (DRAGON JAR)					 |    Jacobo Tibaquira(COLOMBIA)    |L
+| 16:40 - 17:30 | 					Atacando al atacante (DRAGON JAR)					 |    Jacobo Tibaquira(COLOMBIA)    |
 
 
 
