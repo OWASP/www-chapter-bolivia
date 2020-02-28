@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Bolivia
-tags: example-tag
+tags: Bolivia
 level: 0
 
 region: Latin America
