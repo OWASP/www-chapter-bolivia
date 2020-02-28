@@ -19,8 +19,8 @@ Se realizo el primer evento de seguridad Latam Tour en la ciudad de Santa Cruz, 
 #### Ciudad: Santa Cruz - Bolivia
 
 
-![BANNER2016](/assets/images/2016_17.jpg "OWASP BOLIVIA 2016")
-![BANNER2016](/assets/images/2016_18.jpg "OWASP BOLIVIA 2016")
+![BANNER2016](/www-chapter-bolivia/assets/images/2016_17.jpg "OWASP BOLIVIA 2016")
+![BANNER2016](/www-chapter-bolivia/assets/images/2016_18.jpg "OWASP BOLIVIA 2016")
 
 #### Viernes 8 de abril 2016
 
@@ -74,14 +74,14 @@ Imagenes del evento
 ```
 
 | :- --------------------------------: | :----------------------------------: |
-| ![FOTO1](/assets/images/2016_1.jpg)  | ![FOTO1](/assets/images/2016_2.jpg)  |
-| ![FOTO1](/assets/images/2016_3.jpg)  | ![FOTO1](/assets/images/2016_4.jpg)  |
-| ![FOTO1](/assets/images/2016_14.jpg)  | ![FOTO1](/assets/images/2016_6.jpg)  |
-| ![FOTO1](/assets/images/2016_7.jpg)  | ![FOTO1](/assets/images/2016_16.jpg) |
-| ![FOTO1](/assets/images/2016_8.jpg)  | ![FOTO1](/assets/images/2016_9.jpg)  |
-| ![FOTO1](/assets/images/2016_10.jpg) | ![FOTO1](/assets/images/2016_15.jpg) | 
-| ![FOTO1](/assets/images/2016_12.jpg) | ![FOTO1](/assets/images/2016_13.jpg) |
-| ![FOTO1](/assets/images/2016_5.jpg) | ![FOTO1](/assets/images/2016_11.jpg) |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2016_1.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2016_2.jpg)  |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2016_3.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2016_4.jpg)  |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2016_14.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2016_6.jpg)  |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2016_7.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2016_16.jpg) |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2016_8.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2016_9.jpg)  |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2016_10.jpg) | ![FOTO1](/www-chapter-bolivia/assets/images/2016_15.jpg) | 
+| ![FOTO1](/www-chapter-bolivia/assets/images/2016_12.jpg) | ![FOTO1](/www-chapter-bolivia/assets/images/2016_13.jpg) |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2016_5.jpg) | ![FOTO1](/www-chapter-bolivia/assets/images/2016_11.jpg) |
 
 
 <style>

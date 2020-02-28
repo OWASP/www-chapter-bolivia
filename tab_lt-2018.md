@@ -18,7 +18,7 @@ Se realizo el primer evento de seguridad Latam Tour en la ciudad de La Paz, comp
 #### Fecha: 13 y 14 de abril.
 #### Ciudad: La Paz - Bolivia
 
-![BANNER2018](/assets/images/2018_1.jpg "OWASP BOLIVIA 2018")
+![BANNER2018](/www-chapter-bolivia/assets/images/2018_1.jpg "OWASP BOLIVIA 2018")
 
 
 # Viernes 13 de abril 2018
@@ -81,12 +81,12 @@ Imagenes del evento
 ```
 
 | :- --------------------------------:  | :----------------------------------:   |
-| ![FOTO1](/assets/images/2018_2.jpg)   | ![FOTO1](/assets/images/2018_3.jpg)    |
-| ![FOTO1](/assets/images/2018_5.jpg)   | ![FOTO1](/assets/images/2018_4.jpg)    |
-| ![FOTO1](/assets/images/2018_7.jpg)   | ![FOTO1](/assets/images/2018_6.jpg)    |
-| ![FOTO1](/assets/images/2018_14.jpg)  | ![FOTO1](/assets/images/2018_9.jpg)    |
-| ![FOTO1](/assets/images/2018_10.jpg)  | ![FOTO1](/assets/images/2018_11.jpg)   |
-| ![FOTO1](/assets/images/2018_13.jpg)  | ![FOTO1](/assets/images/2018_12.jpg)   |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2018_2.jpg)   | ![FOTO1](/www-chapter-bolivia/assets/images/2018_3.jpg)    |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2018_5.jpg)   | ![FOTO1](/www-chapter-bolivia/assets/images/2018_4.jpg)    |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2018_7.jpg)   | ![FOTO1](/www-chapter-bolivia/assets/images/2018_6.jpg)    |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2018_14.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2018_9.jpg)    |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2018_10.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2018_11.jpg)   |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2018_13.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2018_12.jpg)   |
 
 
 

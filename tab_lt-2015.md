@@ -20,7 +20,7 @@ Se realizo el primer evento de seguridad Latam Tour en la ciudad de Santa Cruz, 
 #### Ciudad: Santa Cruz - Bolivia
 
 
-![BANNER2015](/assets/images/2015_21.jpg "OWASP BOLIVIA 2015")
+![BANNER2015](/www-chapter-bolivia/assets/images/2015_21.jpg "OWASP BOLIVIA 2015")
 
 #### Viernes 17 de abril 2015
 
@@ -75,18 +75,18 @@ Imagenes del evento
 ```
 
 | :- --------------------------------: | :----------------------------------: |
-| ![FOTO1](/assets/images/2015_1.jpg)  | ![FOTO1](/assets/images/2015_2.jpg)  |
-| ![FOTO1](/assets/images/2015_3.jpg)  | ![FOTO1](/assets/images/2015_4.jpg)  |
-| ![FOTO1](/assets/images/2015_5.jpg)  | ![FOTO1](/assets/images/2015_6.jpg)  |
-| ![FOTO1](/assets/images/2015_7.jpg)  | ![FOTO1](/assets/images/2015_25.jpg) |
-| ![FOTO1](/assets/images/2015_8.jpg)  | ![FOTO1](/assets/images/2015_9.jpg)  |
-| ![FOTO1](/assets/images/2015_10.jpg) | ![FOTO1](/assets/images/2015_11.jpg) | 
-| ![FOTO1](/assets/images/2015_12.jpg) | ![FOTO1](/assets/images/2015_13.jpg) |
-| ![FOTO1](/assets/images/2015_14.jpg) | ![FOTO1](/assets/images/2015_15.jpg) |
-| ![FOTO1](/assets/images/2015_16.jpg) | ![FOTO1](/assets/images/2015_17.jpg) |
-| ![FOTO1](/assets/images/2015_18.jpg) | ![FOTO1](/assets/images/2015_19.jpg) |
-| ![FOTO1](/assets/images/2015_26.jpg) | ![FOTO1](/assets/images/2015_22.jpg) |
-| ![FOTO1](/assets/images/2015_23.jpg) | ![FOTO1](/assets/images/2015_24.jpg) |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2015_1.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2015_2.jpg)  |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2015_3.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2015_4.jpg)  |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2015_5.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2015_6.jpg)  |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2015_7.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2015_25.jpg) |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2015_8.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2015_9.jpg)  |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2015_10.jpg) | ![FOTO1](/www-chapter-bolivia/assets/images/2015_11.jpg) | 
+| ![FOTO1](/www-chapter-bolivia/assets/images/2015_12.jpg) | ![FOTO1](/www-chapter-bolivia/assets/images/2015_13.jpg) |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2015_14.jpg) | ![FOTO1](/www-chapter-bolivia/assets/images/2015_15.jpg) |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2015_16.jpg) | ![FOTO1](/www-chapter-bolivia/assets/images/2015_17.jpg) |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2015_18.jpg) | ![FOTO1](/www-chapter-bolivia/assets/images/2015_19.jpg) |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2015_26.jpg) | ![FOTO1](/www-chapter-bolivia/assets/images/2015_22.jpg) |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2015_23.jpg) | ![FOTO1](/www-chapter-bolivia/assets/images/2015_24.jpg) |
 
 
 <style>

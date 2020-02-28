@@ -19,7 +19,7 @@ Se realizo el primer evento de seguridad Latam Tour en la ciudad de Santa Cruz, 
 #### Ciudad: Santa Cruz - Bolivia
 
 
-![BANNER2017](/assets/images/2017_10.jpg "OWASP BOLIVIA 2017")
+![BANNER2017](/www-chapter-bolivia/assets/images/2017_10.jpg "OWASP BOLIVIA 2017")
 
 ### Viernes 21 de abril 2017
 
@@ -70,18 +70,18 @@ Imagenes del evento
 ```
 
 | :- --------------------------------:  | :----------------------------------:   |
-| ![FOTO1](/assets/images/2017_1.png)   | ![FOTO1](/assets/images/2017_2.jpg)    |
-| ![FOTO1](/assets/images/2017_3.jpg)   | ![FOTO1](/assets/images/2017_4.jpg)    |
-| ![FOTO1](/assets/images/2017_5.jpg)   | ![FOTO1](/assets/images/2017_6.jpg)    |
-| ![FOTO1](/assets/images/2017_7.jpg)   | ![FOTO1](/assets/images/2017_8.jpg)    |
-| ![FOTO1](/assets/images/2017_11.jpg)  | ![FOTO1](/assets/images/2017_12.jpg)   |
-| ![FOTO1](/assets/images/2017_133.jpg) | ![FOTO1](/assets/images/2017_144.jpg)  |
-| ![FOTO1](/assets/images/2017_26.jpg)  | ![FOTO1](/assets/images/2017_15.jpg)   |
-| ![FOTO1](/assets/images/2017_16.jpg)  | ![FOTO1](/assets/images/2017_17.jpg)   |
-| ![FOTO1](/assets/images/2017_18.jpg)  | ![FOTO1](/assets/images/2017_19.jpg)   |
-| ![FOTO1](/assets/images/2017_20.jpg)  | ![FOTO1](/assets/images/2017_21.jpg)   |
-| ![FOTO1](/assets/images/2017_22.jpg)  | ![FOTO1](/assets/images/2017_23.jpg)   |
-| ![FOTO1](/assets/images/2017_14.jpg)  | ![FOTO1](/assets/images/2017_25.jpg)   |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2017_1.png)   | ![FOTO1](/www-chapter-bolivia/assets/images/2017_2.jpg)    |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2017_3.jpg)   | ![FOTO1](/www-chapter-bolivia/assets/images/2017_4.jpg)    |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2017_5.jpg)   | ![FOTO1](/www-chapter-bolivia/assets/images/2017_6.jpg)    |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2017_7.jpg)   | ![FOTO1](/www-chapter-bolivia/assets/images/2017_8.jpg)    |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2017_11.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2017_12.jpg)   |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2017_133.jpg) | ![FOTO1](/www-chapter-bolivia/assets/images/2017_144.jpg)  |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2017_26.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2017_15.jpg)   |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2017_16.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2017_17.jpg)   |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2017_18.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2017_19.jpg)   |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2017_20.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2017_21.jpg)   |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2017_22.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2017_23.jpg)   |
+| ![FOTO1](/www-chapter-bolivia/assets/images/2017_14.jpg)  | ![FOTO1](/www-chapter-bolivia/assets/images/2017_25.jpg)   |
 
 <style>
 img[alt="FOTO1"] { 
