@@ -19,7 +19,7 @@ Se realizo el primer evento de seguridad Latam Tour en la ciudad de Santa Cruz, 
 #### Ciudad: Santa Cruz - Bolivia
 
 
-![BANNER2020](/www-chapter-bolivia/assets/images/back3.jpg "OWASP BOLIVIA 2020")
+![BANNER2020](/www-chapter-bolivia/assets/images/back3.png "OWASP BOLIVIA 2020")
 
 
 
