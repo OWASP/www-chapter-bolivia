@@ -8,13 +8,13 @@ tags: Bolivia
 
 
 ---
-# LATAM TOUR OWASP BOLIVIA
+# VIDEOS OWASP CHAPTER BOLIVIA
 
 ```
 Videos Owasp Chapter Bolivia
 ```
 
-#### Dirección:	Por definición
+#### BUG BOUNTY SECRETS VIDEO 1
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=DIO3WycanCg"><img src="/www-chapter-bolivia/assets/images/video1.png" alt="VIDEO 1 OWASP BOLIVIA"></a>
