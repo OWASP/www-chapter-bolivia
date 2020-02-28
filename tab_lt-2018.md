@@ -11,7 +11,7 @@ tags: Bolivia
 # OWASP LATAM TOUR 2018
 
 ```
-Se realizo el primer evento de seguridad Latam Tour en la ciudad de La Paz, compartiendo conocimiento y concientizando la seguridad en Aplicaciones Web,
+Se realizo el cuarto evento de seguridad Latam Tour en la ciudad de La Paz, compartiendo conocimiento y concientizando la seguridad en Aplicaciones Web,
 ```
 
 #### Dirección: Calle Ayacucho Mercado frente al Banco Central de Bolivia Edificio de la Vicepresidencia.

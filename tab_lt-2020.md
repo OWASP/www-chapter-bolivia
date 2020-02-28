@@ -11,7 +11,7 @@ tags: Bolivia
 # OWASP LATAM TOUR 2019
 
 ```
-Se realizo el primer evento de seguridad Latam Tour en la ciudad de Santa Cruz, compartiendo conocimiento y concientizando la seguridad en Aplicaciones Web,
+Se realizara el sexto evento de seguridad Latam Tour en la ciudad de Santa Cruz, compartiendo conocimiento y concientizando la seguridad en Aplicaciones Web,
 ```
 
 #### Dirección:	Por definición

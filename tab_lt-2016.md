@@ -11,7 +11,7 @@ tags: Bolivia
 # OWASP LATAM TOUR 2016
 
 ```
-Se realizo el primer evento de seguridad Latam Tour en la ciudad de Santa Cruz, compartiendo conocimiento y concientizando la seguridad en Aplicaciones Web,
+Se realizo el segundo evento de seguridad Latam Tour en la ciudad de Santa Cruz, compartiendo conocimiento y concientizando la seguridad en Aplicaciones Web,
 ```
 
 #### Dirección:	Universidad de Aquino UDABOL, 3er. Anillo Interno esq. Radial 23

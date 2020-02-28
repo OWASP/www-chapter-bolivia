@@ -11,7 +11,7 @@ tags: Bolivia
 # OWASP LATAM TOUR 2017
 
 ```
-Se realizo el primer evento de seguridad Latam Tour en la ciudad de Santa Cruz, compartiendo conocimiento y concientizando la seguridad en Aplicaciones Web,
+Se realizo el tercero evento de seguridad Latam Tour en la ciudad de Santa Cruz, compartiendo conocimiento y concientizando la seguridad en Aplicaciones Web,
 ```
 
 #### Dirección:	Universidad Domingo Savio Av. Beni y 3er. Anillo Externo.
