@@ -14,7 +14,7 @@ auto-migrated: 1
 
 <style type="text/css">
 
-.alert{
+.news-events{
 
 	display: none;
 }
