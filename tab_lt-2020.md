@@ -11,7 +11,7 @@ tags: Bolivia
 # OWASP LATAM TOUR AT HOME  2020
 
 ```
-Se realizo el sexto evento de seguridad Latam Tour At Home por el canal de Youtube, Con la ayuda de diferentes capitulos de Latinoamerica,
+Se realizo el sexto evento de seguridad Latam Tour At Home por el canal de Youtube, Con la ayuda de diferentes capitulos de Latinoamerica.
 ```
 
 #### Canal:	https://www.youtube.com/channel/UCEXEarSUAfgcll1uzxcNGUA
