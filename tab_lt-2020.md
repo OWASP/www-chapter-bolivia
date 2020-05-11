@@ -16,11 +16,12 @@ Se realizara el sexto evento de seguridad Latam Tour en la ciudad de Santa Cruz,
 
 #### Dirección:	Por definición
 #### Fecha:	Por definición
-#### Ciudad: Santa Cruz - Bolivia
+#### ON LINE
 
 
-![BANNER2020](/www-chapter-bolivia/assets/images/back3.png "OWASP BOLIVIA 2020")
+![BANNER2020](/www-chapter-bolivia/assets/images/LatamAtHome.jpg "OWASP BOLIVIA 2020")
 
+https://owasp.org/www-event-2020-latam-at-home/
 
 
 <style>
