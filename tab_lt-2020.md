@@ -14,8 +14,8 @@ tags: Bolivia
 Se realizo el sexto evento de seguridad Latam Tour At Home por el canal de Youtube, Con la ayuda de diferentes capitulos de Latinoamerica,
 ```
 
-#### Dirección:	Por definición
-#### Fecha:	Por definición
+#### Canal:	https://www.youtube.com/channel/UCEXEarSUAfgcll1uzxcNGUA
+#### Fecha:	Conferencias del 4 al 8 de Mayo de 2020 (Horario GMT-5)
 #### ON LINE
 
 
