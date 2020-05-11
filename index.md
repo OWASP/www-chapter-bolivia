@@ -12,6 +12,14 @@ auto-migrated: 1
 ---
 ![OWASPBOLIVIA](/www-chapter-bolivia/assets/images/owasp-www.jpg "OWASP BOLIVIA")
 
+<style type="text/css">
+
+.page-body{
+
+	display: none;
+}
+</style>
+
 ## Sobre el capítulo OWASP Bolivia
 El capitulo OWASP Bolivia comenzó en el año 2015 con el fin de difundir temas de Seguridad en Aplicaciones en Bolivia. 
 
