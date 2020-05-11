@@ -8,5 +8,5 @@ tags: Bolivia
 
 
 ---
-## Owaspdays
-En construcción
+## RedTeam
+NUCLEOGNULINUX - LA PAZ
