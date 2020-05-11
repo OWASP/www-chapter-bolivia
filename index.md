@@ -14,7 +14,7 @@ auto-migrated: 1
 
 <style type="text/css">
 
-.page-body{
+.alert{
 
 	display: none;
 }
