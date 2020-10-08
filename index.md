@@ -5,7 +5,7 @@ title: OWASP Bolivia
 tags: Bolivia
 level: 0
 
-region: Latin America
+region: South America
 
 auto-migrated: 1
 
