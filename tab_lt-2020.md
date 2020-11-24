@@ -17,7 +17,7 @@ No te lo pierdas, si deseas ser parte del foro de expositores escríbenos al cor
 
 ![OWASPBOLIVIANAVIDAD](/www-chapter-bolivia/assets/images/appnavidad.jpg "OWASP  DAY NAVIDAD")
 
----
+
 # OWASP LATAM TOUR AT HOME  2020
 
 ```
