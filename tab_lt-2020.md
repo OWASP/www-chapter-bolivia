@@ -7,7 +7,7 @@ order: 2
 tags: Bolivia
 
 
-
+---
 
 # Proximo Meetup 11 de diciembre de 2020 a horas 
 El capítulo OWASP Bolivia te invita a participar de un foro de charlas sobre seguridad en aplicaciones Web, Aplicaciones de celular y tecnologías de servicios para la nube.
