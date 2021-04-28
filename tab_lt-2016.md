@@ -1,6 +1,6 @@
 ---
 
-title: EVENT-2016
+title: LT-2016
 layout:  null
 tab: true
 order: 6

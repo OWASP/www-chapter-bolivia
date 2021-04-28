@@ -1,7 +1,7 @@
 ---
 
-title: E-2015
-layout:  null
+title: LT-2015
+layout: col-sidebar
 tab: true
 order: 7
 tags: Bolivia
