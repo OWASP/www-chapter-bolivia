@@ -22,6 +22,20 @@ auto-migrated: 1
 
 
 ## Proximo Meetup 29 de abril de 2021 
+
+<a class='timeclass'>19:30 - 21:00 - Opening Session</a>
+
+{% for project in site.data.projects %}
+{{ project.name }}
+{% endfor %}
+
+{% assign category = site.data.events | where: "category", "Global" | first %}
+   <ul>
+      {% for event in category.events %}
+      <li><a href="{{event.url}}" target="_blank" rel="noopener">{{event.name}}</a></li>
+      {% endfor %}
+   </ul>
+
 El capítulo OWASP Bolivia te invita a participar de la primera reunion del año, como introducción al OWASP TOP 10 2017.
 HORAS: 19:30
 No te lo pierdas, si deseas ser parte del foro de expositores escríbenos al correo elvin.mollinedo@owasp.org o al correo roxana.calderon@owasp.org
