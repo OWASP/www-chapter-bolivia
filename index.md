@@ -21,13 +21,15 @@ auto-migrated: 1
 </style>
 
 
-## Proximo Meetup 11 de diciembre de 2020 a horas 
-El capítulo OWASP Bolivia te invita a participar de un foro de charlas sobre seguridad en aplicaciones Web, Aplicaciones de celular y tecnologías de servicios para la nube.
-Estamos preparando el mejor contenido de sistema basados en Blockchain sobre ciudades digitales y tecnologías libres.
-HORAS: 19:00 PM 
-No te lo pierdas, si deseas ser parte del foro de expositores escríbenos al correo elvin.mollinedo@owasp.org
+## Proximo Meetup 29 de abril de 2021 
+El capítulo OWASP Bolivia te invita a participar de la primera reunion del año, como introducción al OWASP TOP 10 2017.
+HORAS: 19:30
+No te lo pierdas, si deseas ser parte del foro de expositores escríbenos al correo elvin.mollinedo@owasp.org o al correo roxana.calderon@owasp.org
 
-![OWASPBOLIVIANAVIDAD](/www-chapter-bolivia/assets/images/appnavidad.jpg "OWASP  DAY NAVIDAD")
+![OWASPDAYNRO-1-2021](/www-chapter-bolivia/assets/images/owaspday012021.jpg "OWASP DAY NRO-1-2021")
+
+* [Link Meetup](https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/277845159/ "Link Meetup")
+ 
 
 
 ## Sobre el capítulo OWASP Bolivia
