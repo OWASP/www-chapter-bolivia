@@ -1,6 +1,6 @@
 ---
 
-title: LT-2020
+title: EVENT-2020
 layout:  null
 tab: true
 order: 2

@@ -1,6 +1,6 @@
 ---
 
-title: LT-2021
+title: EVENT-2021
 layout:  null
 tab: true
 order: 1
@@ -10,11 +10,11 @@ tags: Bolivia
 ---
 
 ### Check our Upcoming Meetup Events:
-#### Event: OWASP DAY Virtual Meeting - ABRIL 29, 2021
-#### Date: 2021-04-29
-#### Time: 19:30 (GMT-4)
-#### Link: [Link Meetup](https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/277845159/ "Link Meetup")
-#### Description:
+### Event: OWASP DAY Virtual Meeting - ABRIL 29, 2021
+### Date: 2021-04-29
+### Time: 19:30 (GMT-4)
+### Link: [Link Meetup](https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/277845159/ "Link Meetup")
+### Description:
 
 El capítulo OWASP Bolivia te invita a participar de la primera reunion del año, como introducción al OWASP TOP 10 2017.
 HORAS: 19:30
