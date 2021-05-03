@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP CHAPTER Bolivia
+title: OWASP Bolivia
 tags: Bolivia
 level: 0
 
