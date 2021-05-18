@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Bolivia
-tags: Bolivia
+meetup group: OWASP-Bolivia-Meetup-Grouptags: Bolivia
 level: 0
 
 region: South America
@@ -21,6 +21,9 @@ auto-migrated: 1
 </style>
 
 ### Check our Upcoming Meetup Events:
+
+{% include chapter_events.html group=page.meetup-group %}
+
 ### Event: OWASP DAY Virtual Meeting - MAYO 29, 2021
 ### Date: 2021-05-29
 ### Time: 17:00 (GMT-4)
