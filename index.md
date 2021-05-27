@@ -2,14 +2,15 @@
 
 layout: col-sidebar
 title: OWASP Bolivia
-meetup group: OWASP-Bolivia-Meetup-Grouptags: Bolivia
-level: 0
-
+meetup group: OWASP-Bolivia-Meetup-Group
+Grouptags: Bolivia
+level: 3
 region: South America
 
-auto-migrated: 1
-
 ---
+
+
+
 ![OWASPBOLIVIA](/www-chapter-bolivia/assets/images/owasp-www.jpg "OWASP BOLIVIA")
 
 <style type="text/css">
