@@ -13,13 +13,6 @@ region: South America
 
 ![OWASPBOLIVIA](/www-chapter-bolivia/assets/images/owasp-www.jpg "OWASP BOLIVIA")
 
-<style type="text/css">
-
-.news-events{
-
-	display: none;
-}
-</style>
 
 ### Check our Upcoming Meetup Events:
 
