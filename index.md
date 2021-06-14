@@ -7,8 +7,6 @@ Grouptags: Bolivia
 level: 0
 region: South America
 
-auto-migrated: 1
-
 ---
 
 
