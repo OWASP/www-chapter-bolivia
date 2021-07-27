@@ -18,19 +18,36 @@ region: South America
 
 {% include chapter_events.html group=page.meetup-group %}
 
-### Event: OWASP DAY Virtual Meeting - MAYO 29, 2021
-### Date: 2021-05-29
+### Event: OWASP DAY Virtual Meeting - AGOSTO 7, 2021
+### Date: 2021-08-07
 ### Time: 17:00 (GMT-4)
-### Link: [Link Meetup](https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/278176082/ "https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/278176082/")
+### Link: [Link Meetup](https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/278176082/ "https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/279666338/")
 ### Description:
 
-El capítulo OWASP Bolivia te invita a participar de la segunda reunion del año, como introducción a los lineamientos de seguridad enfocados a OWASP TOP 10.
-HORAS: 17:00
+El capítulo OWASP CHAPTER BOLIVIA, invita a todos los entusiastas, investigadores y analistas de ciberseguridad, a la tercera reunión del año 2021, en fecha 7 de Agosto a hrs 17:00 con los siguientes temas:
+
+Herman Brule
+"Seguridad de red/internet en Confiared"
+
+Juan Alberto Fajardo
+"XSS, ¿hasta dónde podemos llegar?"
+
+Drayco Escobar
+"API-cultura de seguridad con OWASP"
+
+{:.tabla1}
+|     Hora      |                              Conferencia Virtual                       |             Speaker                 |
+| :-----------: | :--------------------------------------------------------------------: | :---------------------------------: |
+|  17:00 - 17:30  |             "Seguridad de red/internet en Confiared"                 |         Herman Brule                |
+|  17:30 - 18:15  |             "XSS, ¿hasta dónde podemos llegar?"                      |         Juan Alberto Fajardo        |
+|  18:15 - 19:00  |  		    "API-cultura de seguridad con OWASP"    	   			 |   	   Drayco Escobar              |
+
 No te lo pierdas, si deseas ser parte del foro de expositores escríbenos al correo elvin.mollinedo@owasp.org o al correo roxana.calderon@owasp.org
 
-![OWASPDAYNRO-2-2021](/www-chapter-bolivia/assets/images/owaspday022021.jpg "OWASP DAY NRO-2-2021")
+![OWASPDAYNRO-3-2021](/www-chapter-bolivia/assets/images/owaspday022021.png "OWASP DAY NRO-3-2021")
 
-* [Link Meetup](https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/278176082/ "https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/278176082/")
+* [Link Meetup](https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/279666338/ "https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/279666338/")
+ 
  
 
 
