@@ -15,19 +15,11 @@ tags: example-tag
 ### Event: OWASP DAY Virtual Meeting - AGOSTO 7, 2021
 ### Date: 2021-08-07
 ### Time: 17:00 (GMT-4)
-### Link: [Link Meetup](https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/278176082/ "https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/279666338/")
+### Link: [Link Meetup](https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/279666338/ "https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/279666338/")
 ### Description:
 
 El capítulo OWASP CHAPTER BOLIVIA, invita a todos los entusiastas, investigadores y analistas de ciberseguridad, a la tercera reunión del año 2021, en fecha 7 de Agosto a hrs 17:00 con los siguientes temas:
 
-Herman Brule
-"Seguridad de red/internet en Confiared"
-
-Juan Alberto Fajardo
-"XSS, ¿hasta dónde podemos llegar?"
-
-Drayco Escobar
-"API-cultura de seguridad con OWASP"
 
 {:.tabla1}
 |     Hora      |                              Conferencia Virtual                       |             Speaker                 |
