@@ -5,7 +5,6 @@ tags: Bolivia
 region: South America
 meetup-group: OWASP-Bolivia-Chapter
 country: Bolivia
-level: 0
 ---
 
 
