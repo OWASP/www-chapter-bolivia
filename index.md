@@ -19,6 +19,15 @@ region: South America
 {% include chapter_events.html group=page.meetup-group %}
 
 
+* [Link Meetup](https://www.meetup.com/es/owasp-bolivia-meetup-group/events/287042333/ "https://www.meetup.com/es/owasp-bolivia-meetup-group/events/287042333/")
+
+
+El capítulo OWASP Bolivia te invita a participar de la primera reunion del año.
+HORAS: 15:00
+No te lo pierdas, si deseas ser parte del foro de expositores escríbenos al correo elvin.mollinedo@owasp.org o al correo roxana.calderon@owasp.org
+
+
+
 
 ## Sobre el capítulo OWASP Bolivia
 El capitulo OWASP Bolivia comenzó en el año 2015 con el fin de difundir temas de Seguridad en Aplicaciones en Bolivia. 
