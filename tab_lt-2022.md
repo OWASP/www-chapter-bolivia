@@ -14,7 +14,7 @@ tags: Bolivia
 ### Date: 2022-07-30
 ### Time: 17:00 (GMT-4)
 
-![OWASPDAYNRO-1-2022](/www-chapter-bolivia/assets/images/owaspday012022.png "OWASP DAY NRO-1-2022")
+![OWASPDAYNRO-1-2022](/www-chapter-bolivia/assets/images/owaspday12022.jpg "OWASP DAY NRO-1-2022")
 
 * [Link Meetup](https://www.meetup.com/es/owasp-bolivia-meetup-group/events/287042333/ "https://www.meetup.com/es/owasp-bolivia-meetup-group/events/287042333/")
 

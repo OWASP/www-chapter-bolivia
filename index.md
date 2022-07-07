@@ -21,6 +21,7 @@ region: South America
 
 * [Link Meetup](https://www.meetup.com/es/owasp-bolivia-meetup-group/events/287042333/ "https://www.meetup.com/es/owasp-bolivia-meetup-group/events/287042333/")
 
+![OWASPDAYNRO-1-2022](/www-chapter-bolivia/assets/images/owaspday12022.jpg "OWASP DAY NRO-1-2022")
 
 El capítulo OWASP Bolivia te invita a participar de la primera reunion del año.
 HORAS: 15:00
