@@ -6,7 +6,7 @@ order: 4
 tags: Bolivia
 ---
 
-
+#Reuniones
 ### Check our Upcoming Meetup Events:
 ### Event: OWASP DAY Virtual Meeting - JUIO 30, 2022
 ### Date: 2022-07-30
@@ -23,16 +23,3 @@ No te lo pierdas, si deseas ser parte del foro de expositores escríbenos al cor
 
 
 
-
-<style>
-img[alt="FOTO1"] { 
-  max-width:  400px; 
-  display: block;
-}
-.tabla2{
-    font-size:13px;
-}
-.tabla1{
-    font-size:13px;
-}
-</style> 
