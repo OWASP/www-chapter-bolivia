@@ -1,9 +1,9 @@
 ---
-layout: col-sidebar
-title: LT-2022
+title:2022
+layout:  null
 tab: true
-order: 1
-tags: Bolivia
+order: 2
+tags: Boivia
 
 
 ---
