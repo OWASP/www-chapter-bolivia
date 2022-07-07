@@ -18,20 +18,6 @@ region: South America
 
 {% include chapter_events.html group=page.meetup-group %}
 
-{:.tabla1}
-|     Hora      |                              Conferencia Virtual                       |             Speaker                 |
-| :-----------: | :--------------------------------------------------------------------: | :---------------------------------: |
-|  17:00 - 17:30  |             "Seguridad de red/internet en Confiared"                 |         Herman Brule                |
-|  17:30 - 18:15  |             "XSS, ¿hasta dónde podemos llegar?"                      |         Juan Alberto Fajardo        |
-|  18:15 - 19:00  |  		    "API-cultura de seguridad con OWASP"    	   			 |   	   Drayco Escobar              |
-
-No te lo pierdas, si deseas ser parte del foro de expositores escríbenos al correo elvin.mollinedo@owasp.org o al correo roxana.calderon@owasp.org
-
-![OWASPDAYNRO-3-2021](/www-chapter-bolivia/assets/images/owaspday022021.png "OWASP DAY NRO-3-2021")
-
-* [Link Meetup](https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/279666338/ "https://www.meetup.com/es/OWASP-Bolivia-Meetup-Group/events/279666338/")
- 
- 
 
 
 ## Sobre el capítulo OWASP Bolivia
