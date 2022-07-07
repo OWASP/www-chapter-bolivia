@@ -2,10 +2,10 @@
 title:2022
 layout:  null
 tab: true
-order: 2
-tags: Boivia
-
-
+meetup-group: OWASP-Bolivia-Meetup-Group
+Grouptags: Bolivia
+level: 0
+region: South America
 ---
 
 

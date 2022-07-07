@@ -1,12 +1,9 @@
 ---
-
 title: VIDEOS
 layout:  null
 tab: true
 order: 9
 tags: Bolivia
-
-
 ---
 # VIDEOS OWASP CHAPTER BOLIVIA
 
