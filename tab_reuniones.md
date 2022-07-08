@@ -1,6 +1,7 @@
 ---
 
 title: Reuniones
+displaytext:  Reuniones
 layout:  null
 tab: true
 order: 1
