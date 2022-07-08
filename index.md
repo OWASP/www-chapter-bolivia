@@ -1,5 +1,4 @@
 ---
-
 layout: col-sidebar
 title: OWASP Bolivia
 tags: Bolivia
@@ -9,7 +8,7 @@ country: Bolivia
 
 ---
 
-
+# Sobre el capítulo OWASP Bolivia
 ![OWASPBOLIVIA](/www-chapter-bolivia/assets/images/owasp-www.jpg "OWASP BOLIVIA")
 
 
