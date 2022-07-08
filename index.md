@@ -8,7 +8,8 @@ country: Bolivia
 
 ---
 
-# Sobre el capítulo OWASP Bolivia
+# Capítulo OWASP Bolivia
+
 ![OWASPBOLIVIA](/www-chapter-bolivia/assets/images/owasp-www.jpg "OWASP BOLIVIA")
 
 
