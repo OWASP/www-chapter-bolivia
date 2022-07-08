@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP Bolivia
 tags: Bolivia
 region: South America
-meetup-group: OWASP-Bolivia-Chapter
+meetup-group: OWASP-Bolivia-Meetup-Group
 country: Bolivia
 
 ---

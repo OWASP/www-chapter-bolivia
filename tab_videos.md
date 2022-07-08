@@ -4,6 +4,8 @@ layout:  null
 tab: true
 order: 2
 tags: Bolivia
+meetup-group: OWASP-Bolivia-Meetup-Group
+
 ---
 # VIDEOS OWASP CHAPTER BOLIVIA
 
