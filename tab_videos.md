@@ -1,5 +1,6 @@
 ---
-title: Transmisiones
+title: Videos
+displaytext: Transmisiones
 layout:  null
 tab: true
 order: 2
