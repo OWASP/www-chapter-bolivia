@@ -19,18 +19,32 @@ country: Bolivia
 
 
 ### Check our Upcoming Meetup Events:
-### Event: OWASP DAY Virtual Meeting - DICIEMBRE 30, 2022
-### Date: 2022-12-30
+### Event: OWASP DAY Virtual Meeting - NOVIEMBRE 18, 2023
+### Date: 2023-11-18
 ### Time: 15:00 (GMT-4)
 
-![OWASPDAYNRO-3-2022](/www-chapter-bolivia/assets/images/owaspday301222.jpg "OWASP DAY NRO-3-2022")
+![OWASPDAYNRO-1-2023](/www-chapter-bolivia/assets/images/owaspday18112023.jpg "OWASP DAY NRO-1-2023")
 
-* [Link Meetup](https://www.meetup.com/es/owasp-bolivia-meetup-group/events/290606309/ "https://www.meetup.com/es/owasp-bolivia-meetup-group/events/290606309/")
+* [Link Meetup](https://www.meetup.com/es/owasp-bolivia-meetup-group/events/297185993/ "https://www.meetup.com/es/owasp-bolivia-meetup-group/events/297185993/")
 
 
 El capítulo OWASP Bolivia te invita a participar de la primera reunion del año.
 HORAS: 15:00
 No te lo pierdas, si deseas ser parte del foro de expositores escríbenos al correo elvin.mollinedo@owasp.org o al correo roxana.calderon@owasp.org
+Link de invitacion al evento.
+* [Link Zoom](https://us06web.zoom.us/j/86359165000?pwd=MMhPuFOkNGjfkMuRAvzQ0Eb1yOLFmq.1 "https://us06web.zoom.us/j/86359165000?pwd=MMhPuFOkNGjfkMuRAvzQ0Eb1yOLFmq.1")
+
+
+## Call for Papers & Cronogragrama de conferencias 2023
+![CFP-1-2023](/www-chapter-bolivia/assets/images/cfp2023.jpg "OWASP DAY CALL FOR PAPER 2023")
+
+El capítulo OWASP Bolivia invita cordialmente a ser parte de las JORNADAS OWASP DAY 2023, contaremos con invitados internacionales y nacionales, tú también puedes formar parte del prestigioso grupo de expositores y demostrar tu conocimiento, tus habilidades y tus ganas de compartir con la comunidad OWASP Bolivia.
+Como expositor existen muchos beneficios, tales como, reconocimiento a nivel profesional, nuevos contactos y experiencias muy interesantes en temas de actualidad sobre
+ciberseguridad.
+* [Link CFP](https://drive.google.com/file/d/1J1S_5fJh1R6h8xBc-vc8MtceYIgfr4uF/view?usp=drive_link "https://drive.google.com/file/d/1J1S_5fJh1R6h8xBc-vc8MtceYIgfr4uF/view?usp=drive_link")
+
+* [Link CFP](https://docs.google.com/forms/d/e/1FAIpQLSeR5tWbmEqSbYG1-PWl9WNe_8aqcHw7QtCfIejryRFqX5_BNg/viewform "https://docs.google.com/forms/d/e/1FAIpQLSeR5tWbmEqSbYG1-PWl9WNe_8aqcHw7QtCfIejryRFqX5_BNg/viewform")
+
 
 
 
