@@ -23,15 +23,15 @@ country: Bolivia
 ### Date: 2023-12-02
 ### Time: 15:00 (GMT-4)
 
-![OWASPDAYNRO-2-2023](/www-chapter-bolivia/assets/images/owaspdaybo_02_02122023.jpg "OWASP DAY NRO-2-2023")
+![OWASPDAYNRO-2-2023](/www-chapter-bolivia/assets/images/owaspdaybo_03_16122023.jpg "OWASP DAY NRO-3-2023")
 
 
-El capítulo OWASP Bolivia te invita a participar de la segunda reunion del año.
+El capítulo OWASP Bolivia te invita a participar de la tercera reunion del año.
 HORAS: 15:00
 No te lo pierdas, si deseas ser parte del foro de expositores escríbenos al correo elvin.mollinedo@owasp.org o al correo roxana.calderon@owasp.org
 
-Link de YouTube:
-* [Link YouTube](https://youtube.com/live/aOyykM1GMBw?feature=share "https://youtube.com/live/aOyykM1GMBw?feature=share)")
+Link de Meetup:
+* [Link YouTube](https://www.meetup.com/owasp-bolivia-meetup-group/events/297957805/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link "https://www.meetup.com/owasp-bolivia-meetup-group/events/297957805/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link")
 
 
 ## Call for Papers & Cronogragrama de conferencias 2023
