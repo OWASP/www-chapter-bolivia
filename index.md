@@ -31,8 +31,10 @@ HORAS: 15:00
 No te lo pierdas, si deseas ser parte del foro de expositores escríbenos al correo elvin.mollinedo@owasp.org o al correo roxana.calderon@owasp.org
 
 Link de Meetup:
-* [Link YouTube](https://www.meetup.com/owasp-bolivia-meetup-group/events/297957805/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link "https://www.meetup.com/owasp-bolivia-meetup-group/events/297957805/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link")
+* [Link Meetup](https://www.meetup.com/owasp-bolivia-meetup-group/events/297957805/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link "https://www.meetup.com/owasp-bolivia-meetup-group/events/297957805/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link")
 
+Link de Zoom:
+* [Link Zoom](https://us06web.zoom.us/j/84072655714 "https://us06web.zoom.us/j/84072655714")
 
 ## Call for Papers & Cronogragrama de conferencias 2023
 ![CFP-1-2023](/www-chapter-bolivia/assets/images/cfp2023.jpg "OWASP DAY CALL FOR PAPER 2023")
