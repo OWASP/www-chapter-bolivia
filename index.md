@@ -19,11 +19,11 @@ country: Bolivia
 
 
 ### Check our Upcoming Meetup Events:
-### Event: OWASP DAY Virtual Meeting - DICIEMBRE 2, 2023
-### Date: 2023-12-02
+### Event: OWASP DAY Virtual Meeting - DICIEMBRE 16, 2023
+### Date: 2023-12-16
 ### Time: 15:00 (GMT-4)
 
-![OWASPDAYNRO-2-2023](/www-chapter-bolivia/assets/images/owaspdaybo_03_16122023.jpg "OWASP DAY NRO-3-2023")
+![OWASPDAYNRO-3-2023](/www-chapter-bolivia/assets/images/owaspdaybo_03_16122023.jpg "OWASP DAY NRO-3-2023")
 
 
 El capítulo OWASP Bolivia te invita a participar de la tercera reunion del año.
