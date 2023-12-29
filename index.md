@@ -31,7 +31,7 @@ HORAS: 15:00
 No te lo pierdas, si deseas ser parte del foro de expositores escríbenos al correo elvin.mollinedo@owasp.org o al correo roxana.calderon@owasp.org
 
 Link de Meetup:
-* [Link Meetup]([https://www.meetup.com/owasp-bolivia-meetup-group/events/297957805/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link "https://www.meetup.com/owasp-bolivia-meetup-group/events/297957805/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"](https://www.meetup.com/es-ES/owasp-bolivia-meetup-group/events/297957805/))
+* [Link Meetup](https://www.meetup.com/es-ES/owasp-bolivia-meetup-group/events/297957805/ "https://www.meetup.com/es-ES/owasp-bolivia-meetup-group/events/297957805/")
 
 Link de Zoom:
 * [Link Zoom](https://us06web.zoom.us/j/81280393938 "https://us06web.zoom.us/j/81280393938")
