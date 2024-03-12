@@ -79,7 +79,7 @@ Realizando donaciones para el capítulo local, para el apoyo de proyectos y even
 
 ## ¿Que es Owasp?
 
-**OWASP** ([acrónimo](acrónimo ) de *Open Web Application
+**OWASP** ([acrónimo](acrónimo ) de *Open Worldwide Application
 Security Project*, en [inglés](idioma_inglés ) ‘Proyecto
 [abierto](Código_abierto ) de
 [seguridad](Seguridad_informática ) de [aplicaciones
