@@ -19,39 +19,47 @@ country: Bolivia
 
 
 ### Check our Upcoming Meetup Events:
-### Event: OWASP DAY Virtual Meeting - DICIEMBRE 29, 2023
-### Date: 2023-12-29
+### Event: OWASP DAY Virtual Meeting - OCTUBRE 12, 2024
+### Date: 2024-10-12
 ### Time: 15:00 (GMT-4)
 
-![OWASPDAYNRO-4-2023](/www-chapter-bolivia/assets/images/owaspdaybo_04_29122023.png "OWASP DAY NRO-4-2023")
+![OWASPDAYNRO-1-2024](/www-chapter-bolivia/assets/images/owaspdaybo_01_12102024.jpg "OWASP DAY NRO-1-2024")
 
 
-El capítulo OWASP Bolivia te invita a participar de la cuarta reunion del año.
-HORAS: 15:00
-No te lo pierdas, si deseas ser parte del foro de expositores escríbenos al correo elvin.mollinedo@owasp.org o al correo roxana.calderon@owasp.org
+El capítulo OWASP Bolivia invita cordialmente a participar del primer OWASP DAY 2024.
+
+FECHA: OCTUBRE 12, 2024 
+
+HORA: 15:00
+
+No te lo pierdas, si deseas ser parte del foro de expositores escríbenos a los correos:
+
+elvin.mollinedo@owasp.org
+
+roxana.calderon@owasp.org
 
 Link de Meetup:
-* [Link Meetup](https://www.meetup.com/es-ES/owasp-bolivia-meetup-group/events/298207694/ "https://www.meetup.com/es-ES/owasp-bolivia-meetup-group/events/298207694/")
+* [Link Meetup](https://www.meetup.com/owasp-bolivia-meetup-group/events/303689673 "https://www.meetup.com/owasp-bolivia-meetup-group/events/303689673")
 
 Link de Zoom:
-* [Link Zoom](https://us06web.zoom.us/j/81280393938 "https://us06web.zoom.us/j/81280393938")
+* [Link Zoom](https://us06web.zoom.us/j/89210029699 "https://us06web.zoom.us/j/89210029699")
 
-## Call for Papers & Cronogragrama de conferencias 2023
-![CFP-1-2023](/www-chapter-bolivia/assets/images/cfp2023.jpg "OWASP DAY CALL FOR PAPER 2023")
+## Call for Papers & Cronogragrama de conferencias 2024
+![CFP-1-2024](/www-chapter-bolivia/assets/images/cfp_2024.jpg "OWASP DAY CALL FOR PAPER 2024")
 
-El capítulo OWASP Bolivia invita cordialmente a ser parte de las JORNADAS OWASP DAY 2023, contaremos con invitados internacionales y nacionales, tú también puedes formar parte del prestigioso grupo de expositores y demostrar tu conocimiento, tus habilidades y tus ganas de compartir con la comunidad OWASP Bolivia.
+El capítulo OWASP Bolivia invita cordialmente a ser parte de OWASP DAY 2024, tú también puedes formar parte del prestigioso grupo de expositores y demostrar tu conocimiento, tus habilidades y tus ganas de compartir con la comunidad OWASP Bolivia.
 Como expositor existen muchos beneficios, tales como, reconocimiento a nivel profesional, nuevos contactos y experiencias muy interesantes en temas de actualidad sobre
 ciberseguridad.
 
-* [Link Documento del CFP](https://drive.google.com/file/d/1J1S_5fJh1R6h8xBc-vc8MtceYIgfr4uF/view?usp=drive_link "https://drive.google.com/file/d/1J1S_5fJh1R6h8xBc-vc8MtceYIgfr4uF/view?usp=drive_link")
+* [Link Detalles y Condiciones del CFP](https://drive.google.com/file/d/1DBt1OouTSJEv-VJuAtLlxDVneTKNptIL/view?usp=drive_link)
 
-* [Link REGISTRO DE CFP](https://docs.google.com/forms/d/e/1FAIpQLSeR5tWbmEqSbYG1-PWl9WNe_8aqcHw7QtCfIejryRFqX5_BNg/viewform "https://docs.google.com/forms/d/e/1FAIpQLSeR5tWbmEqSbYG1-PWl9WNe_8aqcHw7QtCfIejryRFqX5_BNg/viewform")
+* [Link REGISTRO DE CFP](http://bit.ly/4eqiO5p "http://bit.ly/4eqiO5p")
 
 
 
 
 ## Sobre el capítulo OWASP Bolivia
-El capitulo OWASP Bolivia comenzó en el año 2015 con el fin de difundir temas de Seguridad en Aplicaciones en Bolivia. 
+El capítulo OWASP Bolivia comenzó en el año 2015 con el fin de difundir temas de Seguridad en Aplicaciones en Bolivia. 
 
 Buscamos difundir temas de Seguridad en Aplicaciones Web, concientizar y sensibilizar tanto a organizaciones, empresas, Universidades, estudiantes, desarrolladores y arquitectos. Esta difusión se realiza mediante eventos de capacitación y de charlas.
 
@@ -82,15 +90,14 @@ Realizando donaciones para el capítulo local, para el apoyo de proyectos y even
 **OWASP** ([acrónimo](acrónimo ) de *Open Worldwide Application
 Security Project*, en [inglés](idioma_inglés ) ‘Proyecto
 [abierto](Código_abierto ) de
-[seguridad](Seguridad_informática ) de [aplicaciones
-web](Aplicación_web )’) es un proyecto de [código
+[seguridad](Seguridad_informática ) a nivel mundial’) es un proyecto de [código
 abierto](código_abierto ) dedicado a determinar y combatir
 las causas que hacen que el [software](software ) sea
 [inseguro](Seguridad_informática ). La Fundación OWASP es un
 organismo sin [ánimo de lucro](ánimo_de_lucro ) que apoya y
 gestiona los proyectos e infraestructura de OWASP. La comunidad OWASP
 está formada por empresas, organizaciones educativas y particulares de
-todo mundo. Juntos constituyen una comunidad de seguridad informática
+todo el mundo. Juntos constituyen una comunidad de seguridad informática
 que trabaja para crear artículos, metodologías, documentación,
 herramientas y tecnologías que se liberan y pueden ser usadas
 gratuitamente por cualquiera.
