@@ -155,7 +155,7 @@ la Sierra El acceso al publico es totalmente **GRATUITO**
 
 ### ''' Contacto '''
 
-Elvin Mollinedo elvin.mollinedo@owasp.org +591 73105855
+Elvin Mollinedo elvin.mollinedo@owasp.org +591 70200026
 
 -----
 
