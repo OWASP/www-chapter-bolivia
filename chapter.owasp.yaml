@@ -1,0 +1,28 @@
+community:
+  - name: chapter-bolivia
+    platform: slack
+    url: https://owasp.slack.com/archives/CCPSC4DGX
+leaders:
+  - name: Roxana Calderon
+    email: roxana.calderon@owasp.org
+    github: roxana-calderon-owasp
+  - name: Elvin Mollinedo
+    email: elvin.mollinedo@owasp.org
+    github: elvinmollinedo
+location:
+  country: Bolivia
+  country_code: BO
+  region: South America
+  latitude: -17.0568696
+  longitude: -64.9912286
+meetup_group: OWASP-Bolivia-Meetup-Group
+name: OWASP Bolivia
+repositories:
+  - name: www-chapter-bolivia
+    url: https://github.com/OWASP/www-chapter-bolivia
+    description: OWASP Foundation Web Repository
+tags:
+  - Bolivia
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-bolivia
